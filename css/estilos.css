@@ -1,0 +1,10 @@
+* {margin: 0%}
+body {font-family: 'Dancing Script', cursive; background-color: azure;}
+.bg-mio {background-color: rgb(255, 226, 236);}
+.container-fluid {text-align: center; color: lightslategrey;}
+.texto {font-size: x-large; align-content: center;}
+.redes {font-size: x-large; color: lightslategrey; text-align: center;}
+.container {color: lightslategray;}
+#preguntas {color: lightslategray}
+h2, h3 {color:lightslategray; text-align: center;}
+h1 {color: lightslategray; text-align: center;}
